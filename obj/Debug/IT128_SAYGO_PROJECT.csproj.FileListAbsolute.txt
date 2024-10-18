@@ -1,0 +1,12 @@
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\bin\Debug\IT128_SAYGO_PROJECT.exe.config
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\bin\Debug\IT128_SAYGO_PROJECT.exe
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\bin\Debug\IT128_SAYGO_PROJECT.pdb
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\bin\Debug\Guna.UI2.dll
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.Form1.resources
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.Properties.Resources.resources
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SA.FE36F3AE.Up2Date
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.exe
+C:\Users\crist\source\repos\IT128_SAYGO_PROJECT\obj\Debug\IT128_SAYGO_PROJECT.pdb
